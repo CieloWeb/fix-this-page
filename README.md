@@ -1,6 +1,6 @@
-# Thix This Page
+# Fix This Page
 
-**Thix This Page** is a premium web purifier designed to give you **full control over your browsing experience**. Remove intrusive popups, sticky headers, modals, iframes, and scripts that block or clutter content — all locally in your browser.  
+**Fix This Page** is a premium web purifier designed to give you **full control over your browsing experience**. Remove intrusive popups, sticky headers, modals, iframes, and scripts that block or clutter content — all locally in your browser.  
 
 It’s lightweight, fast, and **privacy-first**: everything runs entirely on your device, with **no tracking or data collection**.
 
@@ -8,12 +8,12 @@ It’s lightweight, fast, and **privacy-first**: everything runs entirely on you
 
 ## 🚀 Goal
 
-The goal of **Thix This Page** is simple:  
+The goal of **Fix This Page** is simple:  
 - Let users **browse the web without distractions**.  
 - Provide **manual and automated tools** to clean web pages.  
 - Offer **powerful customization** while remaining safe, private, and fully reversible.  
 
-By giving the user control over their environment, Thix This Page helps make browsing smoother, faster, and more readable.
+By giving the user control over their environment, Fix This Page helps make browsing smoother, faster, and more readable.
 
 ---
 
@@ -41,7 +41,7 @@ By giving the user control over their environment, Thix This Page helps make bro
 
 ## 🔧 How to Use
 
-1. Install **Thix This Page** in Chrome or Firefox.  
+1. Install **Fix This Page** in Chrome or Firefox.  
 2. Toggle the **Master Automation** switch to enable automatic cleanup on every page.  
 3. Adjust **Automation Delay** if needed.  
 4. Use individual toggles for Essential Cleanup or Power Features to manually clean pages.  
@@ -52,7 +52,7 @@ By giving the user control over their environment, Thix This Page helps make bro
 
 ## 📖 Frequently Asked Questions
 
-**What is "Thix This Page"?**  
+**What is "Fix This Page"?**  
 A web purifier that removes intrusive elements, sticky headers, iframes, and clutter, making pages more readable and usable.
 
 **How do I use Master Automation?**  
@@ -123,7 +123,7 @@ If the code becomes open-source in the future, contributions, bug reports, and f
 
 ---
 
-## 📥 Get Thix This Page
+## 📥 Get Fix This Page
 
 Install the extension from your preferred browser store:
 
