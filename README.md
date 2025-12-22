@@ -123,4 +123,9 @@ If the code becomes open-source in the future, contributions, bug reports, and f
 
 ---
 
-**Thix This Page – Clean, readable, and distraction-free browsing.**
+## 📥 Get Thix This Page
+
+Install the extension from your preferred browser store:
+
+- **Chrome:** [Add to Chrome](https://chromewebstore.google.com/detail/fix-this-page/bnkehocplcpnahjjmngndjlggifonhbl)  
+- **Firefox:** [Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/fix-this-page/)
